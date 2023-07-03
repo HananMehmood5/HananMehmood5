@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Things are in progress. Will be back with the content soon
+**Notes: Hi there! We just wanted to give you a quick update on the progress of our work. Currently, I am working on finalizing the design and layout of our upcoming content. I anticipate that this process will be completed within the next week or so. Thank you for your patience and I'm excited to share this new content with you soon!** Things are in progress. Will be back with the content soon.
 
 <!--
 
