@@ -1,5 +1,6 @@
-<div style={{textAlign: center}}>
-# Hi there, I'm Hanan Mehmood 👋
+<div style={{width: "80%"}}>
+
+<h1 style="text-align: center">Hii there, I'm Hanan Mehmood 👋</h1>
 
 <img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
