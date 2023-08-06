@@ -1,6 +1,7 @@
+<div style={{textAlign: center}}>
 # Hi there, I'm Hanan Mehmood 👋
 
-![Banner](link-to-your-banner-image)
+<img align="center" alt="Schleidens" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 I'm a passionate Full Stack Developer with over 6 years of experience in crafting web applications that are both visually appealing and highly functional. My expertise lies in front-end technologies, particularly in ReactJS, HTML5, CSS, and JavaScript. I'm a continuous learner and tech enthusiast who loves to explore new tools and frameworks to stay up-to-date with the ever-evolving tech landscape.
 
@@ -55,3 +56,4 @@ Badges, GitHub stats, and other cool widgets can go here.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
