@@ -2,7 +2,7 @@
 
 **Notes: Hi there! We just wanted to give you a quick update on the progress of our work. Currently, I am working on finalizing the design and layout of our upcoming content. I anticipate that this process will be completed within the next week or so. Thank you for your patience and I'm excited to share this new content with you soon!** Things are in progress. Will be back with the content soon.
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Hanan Mehmood 👋
 
 ![Banner](link-to-your-banner-image)
 
@@ -30,12 +30,12 @@ I'm passionate about creating technology that positively impacts people's lives.
 
 Feel free to reach out for discussions, collaborations, or just to say hi:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- LinkedIn [LinkedIn Profile](https://linkedin.com/in/hanan-mehmood)
 - Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
 
 ## 📫 How to Reach Me
 
-You can shoot me an email at [your@email.com](mailto:your@email.com).
+You can shoot me an email at [your@email.com](mailto:hanan.mehmood@ymail.com).
 
 ## ⚡ Fun Fact
 
