@@ -266,7 +266,6 @@ In my free time, I enjoy reading and doing workout, which keeps me energized and
 <br />
 <br />
 <div align="center">
- <img src = "https://github-readme-stats-2e3frepe5-hananmehmood5.vercel.app/api?username=HananMehmood5&count_private=true&show_icons=true&theme=highcontrast">
  <img src = "https://streak-stats.demolab.com?user=HananMehmood5&theme=highcontrast&border_radius=8">
 </div>
 
@@ -290,6 +289,8 @@ In my free time, I enjoy reading and doing workout, which keeps me energized and
 <!--
 ------------------------------------------------------------------------------------------------------------------
 Future Sections to look for
+----------------------------------------
+Stats: <img src = "https://github-readme-stats-2e3frepe5-hananmehmood5.vercel.app/api?username=HananMehmood5&count_private=true&show_icons=true&theme=highcontrast&hide_grade=true">
 ----------------------------------------
 Top Languages: <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HananMehmood5&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 ----------------------------------------
